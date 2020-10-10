@@ -1,6 +1,6 @@
 //toget the details of the Patient or the Medicine Customer
 #include <iostream>
-#include "Pch.h"
+#include "pch.h"
 #include <string.h>
 #include <thread>
 #include <semaphore.h>
